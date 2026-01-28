@@ -174,7 +174,7 @@ class _AddProfilePageState extends State<AddProfilePage> {
 
                                     _buildGlassTextField(
                                       controller: mobileCtrl,
-                                      label: 'Mobile Number (10 digits)',
+                                      label: 'Mobile Number (07XXXXXXXX)',
                                       icon: Icons.phone_android_rounded,
                                       keyboardType: TextInputType.phone,
                                       maxLength: 10,
