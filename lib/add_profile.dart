@@ -111,7 +111,7 @@ class _AddProfilePageState extends State<AddProfilePage> {
                                     ),
                                     const SizedBox(height: 12),
                                     Text(
-                                      'Add your student details',
+                                      'Add Your University Student Details',
                                       style: TextStyle(
                                         fontSize: 16,
                                         fontWeight: FontWeight.bold,
